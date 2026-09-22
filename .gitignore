@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Personal career source files
+profile_sources/*
+!profile_sources/.gitkeep
+!profile_sources/README.md
+
+# Extracted personal evidence
+profile/normalized_sources/*
+!profile/normalized_sources/.gitkeep
+profile/SOURCE_INDEX.json
+profile/PROFILE_EVIDENCE.md
+profile/FACTS_VERIFIED.md
+profile/PROFILE_SUMMARY.md
+
+# User-specific search state
+search/JOBS.csv
+search/SEARCH_CRITERIA.md
+
+# Applications and tracking
+applications/*
+!applications/.gitkeep
+!applications/README.md
+!applications/APPLICATIONS.example.csv
+tracking/ACTIVE_PROCESSES.md
+
+# Temporary output
+*.tmp
+*.bak

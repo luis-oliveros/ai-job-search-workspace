@@ -1,0 +1,9 @@
+{
+  "default_language": "en",
+  "submission_requires_explicit_approval": true,
+  "supported_profile_extensions": [".pdf", ".docx", ".txt", ".md"],
+  "pdf_ocr_mode": "off",
+  "ocr_language": "eng",
+  "minimum_pdf_text_chars_before_ocr": 40,
+  "job_states": ["NEW", "PRIORITIZE", "REVIEW", "DISCARD", "APPLIED", "CLOSED"]
+}

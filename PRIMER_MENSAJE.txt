@@ -1,0 +1,1 @@
+Lee AGENTS.md y EMPIEZA_AQUI.md. Inicializa mi perfil usando los documentos de profile_sources. Haz tú todo el procesamiento técnico necesario. No inventes información. Muéstrame los hechos que requieren revisión antes de comenzar a buscar empleos.

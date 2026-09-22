@@ -1,0 +1,13 @@
+---
+description: Core rules for the Job Search Agent Workspace
+alwaysApply: true
+---
+
+Read and follow `AGENTS.md` as the canonical operating contract for this repository.
+
+Key constraints:
+- Use verified evidence before asserting professional facts.
+- Keep preferences separate from career evidence.
+- Preserve provenance from source documents.
+- Never fabricate missing qualifications, dates, metrics, seniority, language level, or credentials.
+- Never submit a final application without explicit human approval for that specific job.

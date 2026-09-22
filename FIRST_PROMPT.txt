@@ -1,0 +1,1 @@
+Read AGENTS.md and START_HERE.md. Initialize my profile from the documents in profile_sources. Handle any technical processing yourself. Do not invent information. Show me facts that require review before starting a job search.
